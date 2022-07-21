@@ -10,6 +10,7 @@
 /// FIRST COMMIT TO CUSTOM BRANCH
 ///SECOND COMMIT TO CUSTOM BRANCH
 ///THIRD COMMIT TO CUSTOM BRANCH
+///Fourth COMMIT TO CUSTOM BRANCH
 context('Actions', () => {
   beforeEach(() => {
     cy.visit('https://example.cypress.io/commands/actions')
