@@ -8,8 +8,9 @@
 // THIRD COMMIT TO MAIN
 
 /// FIRST COMMIT TO CUSTOM BRANCH
-
 ///SECOND COMMIT TO CUSTOM BRANCH
+/// FIRST COMMIT TO CUSTOM BRANCH
+
 context('Actions', () => {
   beforeEach(() => {
     cy.visit('https://example.cypress.io/commands/actions')
