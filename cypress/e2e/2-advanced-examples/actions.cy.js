@@ -1,6 +1,7 @@
 /// <reference types="cypress" />
 
 // FIRST COMMIT TO MAIN
+// SECOND COMMIT TO MAIN
 context('Actions', () => {
   beforeEach(() => {
     cy.visit('https://example.cypress.io/commands/actions')
