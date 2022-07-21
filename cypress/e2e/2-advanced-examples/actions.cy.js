@@ -1,5 +1,4 @@
 /// <reference types="cypress" />
-
  
 // FIRST COMMIT TO MAIN
 // SECOND COMMIT TO MAIN
