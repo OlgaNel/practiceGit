@@ -1,14 +1,13 @@
 /// <reference types="cypress" />
 // -1 commit
 // 0 commit
+
+ 
 // FIRST COMMIT TO MAIN
 // SECOND COMMIT TO MAIN
 // THIRD COMMIT TO MAIN
 
 /// FIRST COMMIT TO CUSTOM BRANCH
-///SECOND COMMIT TO CUSTOM BRANCH
-///THIRD COMMIT TO CUSTOM BRANCH
-///Fourth COMMIT TO CUSTOM BRANCH
 
 context('Actions', () => {
   beforeEach(() => {
